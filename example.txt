@@ -1,2 +1,0 @@
-// This is an example comment for a cpp file.
-// This is another example comment
